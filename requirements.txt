@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scipy>=1.10
+matplotlib>=3.7
+seaborn>=0.12
+# 重新拉取行情数据时需要（仓库已缓存 CSV，可跳过）
+# baostock>=0.8.8
