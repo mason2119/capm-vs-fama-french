@@ -1,5 +1,9 @@
 # CAPM vs Fama-French 三因子：谁更能解释 A 股收益？
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-3DA639) ![Domain](https://img.shields.io/badge/Domain-金融量化%20·%20因子模型-2f5de3)
+
+**[在线作品集](https://mason2119.github.io)** ｜ [更多项目](https://github.com/mason2119)
+
 > 对 100 只沪深 300 成分股的 84 个月度收益（2018/01–2024/12，共 8,400 个观测）逐只做时间序列回归，
 > 从拟合优度、因子显著性与截距项三个维度，比较单因子 CAPM 与三因子模型对 A 股横截面收益的解释力。
 >
